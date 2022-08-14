@@ -2,7 +2,7 @@
 Building basic accordion without javascript
 
 
-#Working Principle
+# Working Principle
 
 Accordion works using css by wrap the according title in an "a" html tag and linking it to the answer using IDs in html.
 
